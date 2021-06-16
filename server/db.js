@@ -9,3 +9,6 @@ const pool = new Pool({
 });
 
 module.exports = pool;
+
+// see Docker101.odt for information on starting container
+// and psql from the commandline including psswd (if needed)
